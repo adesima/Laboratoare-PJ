@@ -1,13 +1,13 @@
-package com.example.Lab9;
+package com.example.Lab10;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Lab9Application {
+public class Lab10Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Lab9Application.class, args);
+		SpringApplication.run(Lab10Application.class, args);
 	}
 
 }
